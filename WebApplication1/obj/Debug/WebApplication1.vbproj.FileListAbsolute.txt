@@ -135,6 +135,8 @@ C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\roslyn\vbc.rs
 C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\roslyn\VBCSCompiler.exe
 C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
 C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\MaterialDesignColors.dll
+C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\MaterialDesignThemes.Wpf.dll
 C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
 C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\Newtonsoft.Json.dll
@@ -146,6 +148,9 @@ C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\System.Web.We
 C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\System.Web.WebPages.dll
 C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\System.Web.WebPages.Razor.dll
 C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\WebGrease.dll
+C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\MaterialDesignColors.pdb
+C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\MaterialDesignThemes.Wpf.pdb
+C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\MaterialDesignThemes.Wpf.xml
 C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\System.Web.Helpers.xml
 C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\System.Web.Mvc.xml
 C:\Workspace\MaterialDesign-POC\md-csharp-test\WebApplication1\bin\System.Web.Optimization.xml
